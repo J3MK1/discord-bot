@@ -1,0 +1,4 @@
+# Arquivos que serão ignorados ao upar para o Git
+package.json
+package-lock.json
+node_modules
